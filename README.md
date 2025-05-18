@@ -1,2 +1,1 @@
-# Medicine-recommendation-system
-Medicine recommendation system using NLP 
+# Medicine Recommendation System Using Python
